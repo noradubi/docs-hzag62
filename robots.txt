@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-dq4xkv.privatetalks.online/sitemap.xml
